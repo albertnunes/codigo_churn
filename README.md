@@ -26,6 +26,3 @@ O sistema realiza pré-processamento automatizado, preenchimento inteligente de 
 
 ## 📊 Resultados
 O modelo gera métricas como **Precisão**, **Recall**, **F1-score** e **Acurácia**, conforme o relatório do `classification_report()`.
-
-Exemplo de saída:
-
