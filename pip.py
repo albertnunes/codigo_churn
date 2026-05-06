@@ -9,7 +9,6 @@ from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import classification_report
 
-# Carregue aqui seu dataset real (substitua o caminho se necessário)
 df = pd.read_csv("Telco-Customer-Churn.csv")
 
 # Corrigir tipos inconsistentes
